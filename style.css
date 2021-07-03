@@ -1,0 +1,51 @@
+body{
+    background-color:rgb(199, 199, 7);
+}
+
+.blog1{
+   color: rgb(34, 10, 250);
+   text-align: center;
+   
+}
+.blog{
+    
+    background-color: gray;
+    border: 10px solid red;
+    height: 400px;
+    width: 300px;
+    text-align: center;
+    margin: auto;
+}
+
+ .about{
+   color:rgb(21, 71, 235);
+   margin-right:0px;
+   text-align: justify;
+   border-radius: 8px;
+}
+.about1{
+    color:rgb(21, 71, 235);
+   margin-right:0px;
+   text-align: justify;
+   border-radius: 8px;
+
+
+}
+h1{
+   color: springgreen;
+}
+.blog2{
+    color: yellowgreen;
+    background-color: mediumblue;
+    border: 10px;
+    width: 225px;
+}
+ul{
+    color: rgba(197, 6, 149, 0.774);
+}
+iframe{
+    float:right;
+    margin-right: 20px;
+    margin-top: 40px;
+
+}
